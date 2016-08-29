@@ -3,4 +3,4 @@ Primeros pasos...
 
 Probando el sistema de github
 
-Editando de nuevo en win10
+Editando de nuevo en win10 mas ediciones
